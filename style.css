@@ -1,0 +1,73 @@
+body{
+    background-size: cover;
+    font-family: 'Kaushan Script', cursive;
+}
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0px;
+}
+.bedroom{
+    background-color: white;
+    color: black;
+    width: 30%;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.tv{
+    background-color: white;
+    color: black;
+    width: 30%;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+.desk{
+    background-color: white;
+    color: black;
+    width: 30%;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+.bottles{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    width:30%;
+    padding:15px ;
+    border-radius: 7px;
+    
+}
+.basket{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    width:30%;
+    padding:15px ;
+    border-radius: 7px;
+    
+}
+.back{
+    border-radius: 30px;
+    font-size: 20px;
+    width: 10%;
+    float: right;
+    margin-top: 10px;
+}
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px;
+}
+#status,#detect{
+    border-radius: 10px;
+    float: left;
+}
+
+
+
+
+
